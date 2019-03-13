@@ -1,0 +1,49 @@
+{
+  "name": "mf-angular-js-xlsx",
+  "version": "0.0.4",
+  "homepage": "https://github.com/tarun1793/angular-js-xlsx",
+  "authors": [
+    "Boris KOUMONDJI <brexis2009@yahoo.fr>"
+  ],
+  "description": "An angular directive to read XLSX / XLSM / XLSB / XLS / SpreadsheetML (Excel Spreadsheet)",
+  "main": [
+    "angular-js-xlsx.js"
+  ],
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "js-xlsx": "~0.8.0",
+    "angular": "~1.4.8"
+  },
+  "keywords": [
+    "excel",
+    "xls",
+    "xml",
+    "xlsx",
+    "xlsm",
+    "xlsb",
+    "ods",
+    "js-xls",
+    "js-xlsx",
+    "angular",
+    "directive",
+    "file props"
+  ],
+  "_release": "0.0.4",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.0.4",
+    "commit": "78042fd0f124faae8c35942fa12d9aa966eb48ea"
+  },
+  "_source": "https://github.com/tarun1793/angular-js-xlsx.git",
+  "_target": "^0.0.4",
+  "_originalSource": "mf-angular-js-xlsx",
+  "_direct": true
+}
